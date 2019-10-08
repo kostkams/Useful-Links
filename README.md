@@ -18,3 +18,5 @@ https://nestjs.com/
 https://typeorm.io/#/
 * Single repo management <br>
 https://lerna.js.org/
+* Single repo management <br>
+https://rushstack.io/
