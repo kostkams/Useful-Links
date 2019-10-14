@@ -20,3 +20,7 @@ https://typeorm.io/#/
 https://lerna.js.org/
 * Single repo management <br>
 https://rushstack.io/
+* Configuration as Code <br>
+https://github.com/jkcfg/jk
+* MS Single App <br>
+https://single-spa.js.org/
