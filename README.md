@@ -2,6 +2,10 @@
 
 A collection of usefull npm libraries
 
+## Read
+* Best Practives <br>
+https://github.com/goldbergyoni/nodebestpractices
+
 ## Libraries
 
 * JS object schema validation <br>
