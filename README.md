@@ -29,4 +29,5 @@ https://github.com/jkcfg/jk
 * MS Single App <br>
 https://single-spa.js.org/
 * Workflow Engine <br>
-https://zeebe.io/
+https://zeebe.io/ <br>
+https://github.com/zeebe-io/kafka-connect-zeebe
