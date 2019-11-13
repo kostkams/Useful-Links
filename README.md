@@ -35,3 +35,5 @@ https://github.com/zeebe-io/kafka-connect-zeebe
 https://echarts.apache.org/en/index.html
 * JS Grid <br>
 https://www.ag-grid.com/
+* Nock <br>
+https://www.npmjs.com/package/nock
