@@ -11,7 +11,8 @@ https://github.com/goldbergyoni/nodebestpractices
 * JS object schema validation <br>
 https://www.npmjs.com/package/yup
 * React Forms <br>
-https://jaredpalmer.com/formik/
+https://jaredpalmer.com/formik/ <br>
+https://github.com/alibaba/uform
 * UI Components antd <br>
 https://ant.design/
 * Lazy React components loading <br>
