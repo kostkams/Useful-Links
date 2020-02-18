@@ -44,3 +44,5 @@ https://umijs.org/
 https://k3s.io/
 * React improvment <br>
 https://nextjs.org/
+* Clean Code for TS <br>
+https://github.com/labs42io/clean-code-typescript
