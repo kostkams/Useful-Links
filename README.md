@@ -46,3 +46,5 @@ https://k3s.io/
 https://nextjs.org/
 * Clean Code for TS <br>
 https://github.com/labs42io/clean-code-typescript
+* Easy responsive browser <br>
+https://github.com/manojVivek/responsively-app
