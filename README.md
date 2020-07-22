@@ -1,6 +1,6 @@
-# ms-libs
+# Useful Links
 
-A collection of usefull npm libraries
+A collection of usefull npm libraries and links
 
 ## Read
 * Best Practives <br>
@@ -50,3 +50,5 @@ https://github.com/labs42io/clean-code-typescript
 https://github.com/manojVivek/responsively-app
 * Hotel (MS locally) <br>
 https://github.com/typicode/hotel
+* Design Resources <br>
+https://github.com/bradtraversy/design-resources-for-developers
