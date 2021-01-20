@@ -52,3 +52,5 @@ https://github.com/manojVivek/responsively-app
 https://github.com/typicode/hotel
 * Design Resources <br>
 https://github.com/bradtraversy/design-resources-for-developers
+* Next.JS Auth <br>
+https://github.com/nextauthjs/next-auth
