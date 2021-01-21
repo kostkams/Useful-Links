@@ -54,3 +54,5 @@ https://github.com/typicode/hotel
 https://github.com/bradtraversy/design-resources-for-developers
 * Next.JS Auth <br>
 https://github.com/nextauthjs/next-auth
+* React loadable <br>
+https://github.com/gregberge/loadable-components
