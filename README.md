@@ -60,3 +60,5 @@ https://github.com/gregberge/loadable-components
 https://github.com/revolist/revogrid
 * React Stencil JS<br>
 https://stenciljs.com/
+* Object validator <br>
+https://github.com/jquense/yup
