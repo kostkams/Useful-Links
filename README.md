@@ -63,3 +63,5 @@ https://github.com/revolist/revogrid
 https://stenciljs.com/
 * Object validator <br>
 https://github.com/jquense/yup
+* GraphQL with NestJs <br>
+https://doug-martin.github.io/nestjs-query/
