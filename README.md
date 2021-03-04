@@ -20,7 +20,8 @@ https://github.com/umijs/qiankun
 * Framework for the backend <br>
 https://nestjs.com/
 * Database lib <br>
-https://typeorm.io/#/
+https://typeorm.io/#/ <br>
+https://mikro-orm.io/
 * Single repo management <br>
 https://lerna.js.org/
 * Single repo management <br>
